@@ -1,0 +1,19 @@
+{
+  "name": "syndicator",
+  "version": "1.0.0",
+  "description": "syndicator to automatically post events and products",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rarkebauer/syndicator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rarkebauer/syndicator/issues"
+  },
+  "homepage": "https://github.com/rarkebauer/syndicator#readme"
+}
